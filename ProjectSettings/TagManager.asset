@@ -3,7 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags: [Music Key]
   layers:
   - Default
   - TransparentFX
@@ -13,12 +13,13 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - MiniMap
+  - Ethan
+  - MazeWalls
+  - MazeTurret
+  - MazeTurretBullet
+  - Bg
+  - FPSWeapon
   - 
   - 
   - 
@@ -40,4 +41,7 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: GUI
+    uniqueID: 2379361113
     locked: 0
